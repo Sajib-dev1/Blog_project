@@ -22,8 +22,10 @@ Features
 Getting Started
 To get started with the Laravel Blog Project, follow these steps:
 
-<h4><b> 1: &nbsp; </b>Clone the repository to your local machine:</h4>
-<small>https://github.com/Sajib-dev1/Blog_project</small>
+<h3><b> 1: &nbsp; </b>Clone the repository to your local machine:</h3>
+<pre>
+    https://github.com/Sajib-dev1/Blog_project
+</pre>
 
 <h4><b> 2: &nbsp; </b>Install project dependencies using Composer:</h4>
 <small>composer install</small>
