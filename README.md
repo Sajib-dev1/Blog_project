@@ -1,5 +1,4 @@
-!
-Certainly! Below is a template for a README file tailored for your Laravel blog project on GitHub:
+<h1 align="center">Tha-Mart</h1>
 
 Laravel Blog Project
 
