@@ -1,4 +1,4 @@
-<h1 align="center">Tha-Mart</h1>
+<h1 align="center">Blog Project</h1>
 
 Laravel Blog Project
 
@@ -6,15 +6,16 @@ Laravel Blog Project
 
 Welcome to the Laravel Blog Project repository! This project is a comprehensive guide to building a fully functional blog using the Laravel framework. Whether you're a beginner looking to learn Laravel or an experienced developer seeking a refresher, this project will provide valuable insights into Laravel development best practices.
 
+<hr>
 Features
-User Authentication: Allow users to register, log in, and log out securely.
-CRUD Operations: Enable users to create, read, update, and delete blog posts effortlessly.
-Commenting System: Implement a robust commenting system for engaging discussions.
-Category Tagging: Categorize posts with tags for better organization and navigation.
-Frontend Design: Create a clean and responsive frontend using Laravel's Blade templating engine.
-Optional Features: Explore optional features like user roles and permissions for advanced functionality.
-Deployment: Learn how to deploy the blog to a production environment for real-world usage.
-Testing and Optimization: Ensure the blog is thoroughly tested and optimized for performance.
+<p><b>User Authentication:</b>b> Allow users to register, log in, and log out securely.</p>
+<p><b>Enable users to create,</b> read, update, and delete blog posts effortlessly.</p>
+<p><b>Commenting System:</b> Implement a robust commenting system for engaging discussions.</p>
+<p><b>Category Tagging:</b> Categorize posts with tags for better organization and navigation.</p>
+<p><b>Frontend Design:</b> Create a clean and responsive frontend using Laravel's Blade templating engine.</p>
+<p><b>Optional Features:</b> Explore optional features like user roles and permissions for advanced functionality.</p>
+<p><b>Deployment:</b> Learn how to deploy the blog to a production environment for real-world usage.</p>
+<p><b>Testing and Optimization:</b> Ensure the blog is thoroughly tested and optimized for performance.</p>
 Getting Started
 To get started with the Laravel Blog Project, follow these steps:
 
