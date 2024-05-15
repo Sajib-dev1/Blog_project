@@ -19,30 +19,68 @@ Features
 <p><b>Deployment:</b> Learn how to deploy the blog to a production environment for real-world usage.</p>
 <p><b>Testing and Optimization:</b> Ensure the blog is thoroughly tested and optimized for performance.</p>
 <hr>
+
+<pre>
+    <h3>Contact :</h3> sajib03.dev@gmail.com
+    <h3>Project Link :</h3> https://github.com/Sajib-dev1/Blog_project
+    
+</pre>
+<hr>
 Getting Started
 To get started with the Laravel Blog Project, follow these steps:
 
-<h3><b> 1: &nbsp; </b>Clone the repository to your local machine:</h3>
+
+<h1>Installation</h1>
+
+<h3> 1 &nbsp; Clone the repository:</h3>
 <pre>
-    https://github.com/Sajib-dev1/Blog_project
+    git clone : https://github.com/Sajib-dev1/Blog_project
 </pre>
 
-<h4><b> 2: &nbsp; </b>Install project dependencies using Composer:</h4>
-<small>composer install</small>
 
-<h4><b> 3: &nbsp; </b>Copy the .env.example file to .env and configure your environment variables:</h4>
-cp .env.example .env
-
-<h4><b> 4: &nbsp; </b>Generate an application key:</h4>
-php artisan key:generate
-
-<h4><b> 5: &nbsp; </b>Run migrations to create the necessary database tables:</h4>
-php artisan migrate
-
-<h4><b> 5: &nbsp; </b>Serve the application locally:</h4>
-php artisan serve
-
-<h4><b> 6: &nbsp; </b>Visit http://localhost:8000 in your web browser to access the blog.</h4>
+<h3> 2 &nbsp; Navigate to the project directory:</h3>
+<pre>
+    cd laravel-blog
+</pre>
 
 
-For more detailed instructions on setting up and customizing the Laravel Blog Project, refer to the documentation.
+<h3> 3 &nbsp; Install dependencies:</h3>
+<pre>
+    composer install
+</pre>
+
+
+<h3> 4 &nbsp; Copy the .env.example file to .env:</h3>
+<pre>
+    cp .env.example .env
+</pre>
+
+
+<h3> 5 &nbsp; Generate application key:</h3>
+<pre>
+    php artisan key:generate
+</pre>
+
+
+<h3> 6 &nbsp; Set up your database connection in the .env file:</h3>
+<pre>
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=multi_blog
+    DB_USERNAME=your_username
+    DB_PASSWORD=your_password
+</pre>
+
+<h3> 7 &nbsp; Migrate the database:</h3>
+<pre>
+    php artisan migrate
+</pre>
+
+<h3> 8 &nbsp; Serve the application:</h3>
+<pre>
+   php artisan serve
+</pre>
+
+<h3> 9 &nbsp; Visit http://localhost:8000 in your web browser.</h3>
+
