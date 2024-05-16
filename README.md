@@ -1,10 +1,10 @@
 <h1 align="center">Blog Project</h1>
 
 Laravel Blog Project Image link
-<h4><a href="https://drive.google.com/drive/u/0/folders/1-plOdSL9C6kJwq5GfevSIZjnhVAOFwGE" target="_blank">SQL File Link</a></h4>
-<h4><a href="https://drive.google.com/drive/u/0/folders/1XygcOAnHymQ3epd1VGf6w3burpwgloCR" target="_blank">All Image Link</a></h4>
-<h4><a href="https://drive.google.com/drive/u/0/folders/1AJIjMPLcenCQAwayhIuiYnrQ6KiD9GxJ" target="_blank">Backend all image screenshot</a></h4>
-<h4><a href="https://drive.google.com/drive/u/0/folders/16G6xTKW59BJBs46ozPaUEfuczwiQAJ6v" target="_blank">Frontend all image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1-plOdSL9C6kJwq5GfevSIZjnhVAOFwGE?usp=sharing" target="_blank">SQL File Link</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1XygcOAnHymQ3epd1VGf6w3burpwgloCR?usp=sharing" target="_blank">All Image Link</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1AJIjMPLcenCQAwayhIuiYnrQ6KiD9GxJ?usp=sharing" target="_blank">Backend all image screenshot</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/16G6xTKW59BJBs46ozPaUEfuczwiQAJ6v?usp=sharing" target="_blank">Frontend all image screenshot</a></h4>
 
 
 Welcome to the Laravel Blog Project repository! This project is a comprehensive guide to building a fully functional blog using the Laravel framework. Whether you're a beginner looking to learn Laravel or an experienced developer seeking a refresher, this project will provide valuable insights into Laravel development best practices.
